@@ -8,13 +8,13 @@ import { useState, useEffect, useRef, useCallback } from "react";
 // ║  Set to null to use the emoji / default gradient instead.   ║
 // ╚══════════════════════════════════════════════════════════════╝
 
-const BIRD_IMAGE_SRC = "/vina.jpg";   // ← character image  (null = use emoji below)
+const BIRD_IMAGE_SRC = "./vina.jpg";   // ← character image  (null = use emoji below)
 const BIRD_EMOJI     = "🐥";            // ← fallback emoji if no image
 
-const PIPE_IMAGE_SRC = "/pil.jpeg";            // ← pillar image     (null = pastel gradient)
+const PIPE_IMAGE_SRC = "./pil.jpeg";            // ← pillar image     (null = pastel gradient)
 // Example: const PIPE_IMAGE_SRC = "/pipe.png";
 
-const PRIZE_NAME = "Vinani";           // shown in the win popup
+const PRIZE_NAME = "Vinani";           // shown in the win popupgit init
 const WIN_SCORE  = 5;                  // score needed to win
 
 // ── Physics & Speed ─────────────────────────────────────────────
