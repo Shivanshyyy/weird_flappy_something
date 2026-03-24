@@ -18,9 +18,9 @@ const PRIZE_NAME = "Vinani";           // shown in the win popupgit init
 const WIN_SCORE  = 5;                  // score needed to win
 
 // ── Physics & Speed ─────────────────────────────────────────────
-const GRAVITY       = 0.3;
-const JUMP          = -10;
-const PIPE_SPEED    = 3.2;
+const GRAVITY       = 0.15;
+const JUMP          = -7;
+const PIPE_SPEED    = 2.8;
 const PIPE_WIDTH    = 64;
 const PIPE_GAP      = 160;
 const PIPE_INTERVAL = 90;
