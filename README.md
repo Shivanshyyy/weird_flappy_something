@@ -58,3 +58,4 @@ This creates a `dist/` folder you can host anywhere (GitHub Pages, Netlify, etc.
 | Flap   | Space / Mouse Click / Tap |
 | Restart| Space / Click after dying |
 # Weird_flappy_something
+# Weird_flappy_something
