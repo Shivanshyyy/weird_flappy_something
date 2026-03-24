@@ -18,15 +18,15 @@ const PRIZE_NAME = "Vinani";           // shown in the win popupgit init
 const WIN_SCORE  = 5;                  // score needed to win
 
 // ── Physics & Speed ─────────────────────────────────────────────
-const GRAVITY       = 0.15;
-const JUMP          = -7;
-const PIPE_SPEED    = 2.8;
-const PIPE_WIDTH    = 64;
+const GRAVITY       = 0.20;
+const JUMP          = -6;
+const PIPE_SPEED    = 3.2;
+const PIPE_WIDTH    = 60;
 const PIPE_GAP      = 160;
 const PIPE_INTERVAL = 90;
 
 // ── Internal constants ───────────────────────────────────────────
-const BIRD_SIZE = 40;
+const BIRD_SIZE = 30;
 const BIRD_X    = 90;
 
 // ── Helpers ──────────────────────────────────────────────────────
